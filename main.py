@@ -1,6 +1,7 @@
 import sys
 
 def simulateLoadBalancer(args):
+    print("puta")
     print(args)
 
 if __name__ == "__main__":
